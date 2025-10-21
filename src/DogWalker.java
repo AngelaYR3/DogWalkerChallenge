@@ -23,25 +23,7 @@ public class DogWalker {
 
     }
 
-    /**
-     * Assigns max to maxDogs and comp to company
-     * Precondition: max > 0
-     */
 
-
-    /**
-     * Takes at least one dog for a walk during the time specified by
-     * hour, as described in part (a)
-     * Preconditions: 0 <= hour <= 23
-     * maxDogs > 0
-     */
-
-    /**
-     * Performs an entire dog-walking shift and returns the amount
-     * earned, in dollars, as described in part (b)
-     * Preconditions: 0 <= startHour <= endHour <= 23
-     * maxDogs > 0
-     */
 
     public int dogWalkShift(int startHour, int endHour) {
 //        w = new DogWalker(3, c);
